@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Tron Tab is a great way to keep tabls on the entire market. Tron Tab provides realtime streaming price, news, social media and community posts, and code checkins by Bitcoin developers right inside each new tab.
+IOTA Tab is a great way to keep tabls on the entire market. IOTA Tab provides realtime streaming price, news, social media and community posts, and code checkins by Bitcoin developers right inside each new tab.
 
 ## What does it look like?
 
@@ -13,10 +13,10 @@ It's a well designed tab, give you a commanding view of the market. Take a peek:
 <p align="center">
     <img 
         width="400px"
-        src="https://github.com/Blockmodo/art/blob/master/extensions/trx_tab_screenshot.png"
+        src="https://github.com/Blockmodo/art/blob/master/extensions/iota_tab_screenshot.png"
     />
 </p>
 
 ## Community
 
-Tron Tab is maintained by Blockmodo and we're on Telegram. Visit us [on Telegram](https://t.me/blockmodo_developers)
+IOTA Tab is maintained by Blockmodo and we're on Telegram. Visit us [on Telegram](https://t.me/blockmodo_developers)
